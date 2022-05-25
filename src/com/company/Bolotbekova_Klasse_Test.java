@@ -6,6 +6,10 @@ public class Bolotbekova_Klasse_Test {
         return super.toString();
     }
 
+    public Bolotbekova_Klasse_Test() {
+        super();
+    }
+
     public String getStr() {
         return str;
     }
